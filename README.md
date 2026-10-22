@@ -8,7 +8,7 @@ A complete, mobile-friendly GitHub Pages website. No framework or build process 
 2. Upload **all the contents of this folder**, including `index.html`, `reveal.html`, `script.js`, `styles.css` and `assets/`. Keep the folder structure. The `index.html` file must be at the **repository root**.
 3. In the repository, go to **Settings → Pages**.
 4. Under **Build and deployment**, select **Deploy from a branch**; choose `main` and `/(root)`, then **Save**.
-5. The invitation will be available at `https://YOUR-USERNAME.github.io/noob-mystery-escape/`. If you choose a different repository name, replace the last part accordingly.
+5. The invitation will be available at `https://Lithiumoxide9.github.io/noob-mystery-escape-v2/`. If you choose a different repository name, replace the last part accordingly.
 
 ## Share the surprise safely
 
